@@ -1,1 +1,1 @@
-FROM docker.io/coredns/coredns:011
+FROM gcr.io/google-containers/coredns:1.2.6
